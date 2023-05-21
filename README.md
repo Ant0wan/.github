@@ -44,16 +44,14 @@ The repository follows a standardized structure for the `.github` directory:
 ├── FUNDING.yml
 ├── GOVERNANCE.md
 ├── ISSUE_TEMPLATE/
-│   ├── [...].yml
-│   └──  ...
+│   └── ...
 ├── LICENSE
 ├── PULL_REQUEST_TEMPLATE.md
 ├── README.md
 ├── SECURITY.md
 ├── SUPPORT.md
 └── workflows/
-    ├── [...].yml
-    └──  ...
+    └── ...
 ```
 
 
@@ -82,7 +80,7 @@ To incorporate the structure and files from this repository into your project, f
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please [create an issue](https://github.com/your-repository/issues) in the repository associated with this README.
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please [create an issue](https://github.com/Ant0wan/.github/issues) in the repository associated with this README.
 
 Please review the [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md) before getting started.
 
