@@ -2,13 +2,13 @@ name: 🐛Bug Report
 description: File a bug report here
 title: "[BUG]: "
 labels: ["bug"]
-assignees: ["AnishDe12020"]
+assignees: ["Ant0wan"]
 body:
   - type: markdown
     attributes:
       value: |
-        ** Bug Report **
-
+        **Bug Report**
+        
         Thanks for taking the time to fill out this bug report! 🤗
         Before submitting the report, please make sure there aren't any open or closed issues for the same topic. 😃
 
@@ -83,4 +83,3 @@ body:
       label: Related Issues
       description: |
         If there are any related issues or previous bug reports, please mention them here.
-
