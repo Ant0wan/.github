@@ -63,7 +63,7 @@ body:
     id: bug-impact
     attributes:
       label: Bug Impact
-      description: |
+      value: |
         Please select the impact of the bug:
         - [ ] Critical - Blocks critical functionality or causes data loss
         - [ ] Major - Major functionality is affected but there is a workaround
