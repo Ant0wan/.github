@@ -59,7 +59,7 @@ body:
       description: |
         If applicable, please provide information about your environment (e.g., operating system, browser version, device).
 
-  - type: checkboxes
+  - type: markdown
     id: bug-impact
     attributes:
       label: Bug Impact
