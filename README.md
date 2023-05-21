@@ -1,11 +1,14 @@
-# .github
-Fallback for repositories without .github directory.
+<br />
+<p align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968810.png" alt="Octocat" width="80" height="80">
+
+  <h1 align="center">.GitHub</h1>
+  <p align="center">Fallback for repositories without .github directory.<i></i>
+
+    
+</p>
 
 ---
-
-# .github
-
-## Description
 
 This repository serves as a fallback for repositories that do not have a dedicated `.github` directory. It provides a standardized structure and essential files that are commonly found in the `.github` directory of GitHub repositories.
 
@@ -77,12 +80,6 @@ To incorporate the structure and files from this repository into your project, f
 4. Update the information in the `README.md` file to provide an overview of your project and instructions for usage.
 5. Commit the changes to your project's repository.
 6. You're all set! Your project now has a standardized `.github` structure and essential files in place.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please [create an issue](https://github.com/Ant0wan/.github/issues) in the repository associated with this README.
-
-Please review the [contribution guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md) before getting started.
 
 ## License
 
