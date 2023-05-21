@@ -63,12 +63,12 @@ body:
     id: bug-impact
     attributes:
       label: Bug Impact
-     description: Please select the impact of the bug.
-    options:
-      - label: Critical - Blocks critical functionality or causes data loss
-      - label: Major - Major functionality is affected but there is a workaround
-      - label: Minor - Minor functionality is affected and there is a workaround
-      - label: Cosmetic - Cosmetic issue, no functionality impact
+      description: Please select the impact of the bug.
+      options:
+        - label: Critical - Blocks critical functionality or causes data loss
+        - label: Major - Major functionality is affected but there is a workaround
+        - label: Minor - Minor functionality is affected and there is a workaround
+        - label: Cosmetic - Cosmetic issue, no functionality impact
 
   - type: textarea
     id: workaround
