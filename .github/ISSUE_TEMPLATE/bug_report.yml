@@ -59,11 +59,11 @@ body:
       description: |
         If applicable, please provide information about your environment (e.g., operating system, browser version, device).
 
-  - type: markdown
+  - type: checkboxes
     id: bug-impact
     attributes:
       label: Bug Impact
-      value: |
+      description: |
         Please select the impact of the bug:
         - [ ] Critical - Blocks critical functionality or causes data loss
         - [ ] Major - Major functionality is affected but there is a workaround
