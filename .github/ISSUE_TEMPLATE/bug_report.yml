@@ -1,0 +1,86 @@
+name: 🐛Bug Report
+description: File a bug report here
+title: "[BUG]: "
+labels: ["bug"]
+assignees: ["AnishDe12020"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ** Bug Report **
+
+        Thanks for taking the time to fill out this bug report! 🤗
+        Before submitting the report, please make sure there aren't any open or closed issues for the same topic. 😃
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Description of the bug
+      description: Please provide a brief description of what happened and what should have happened.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps To Reproduce
+      description: Please provide detailed steps to reproduce the behavior.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: |
+        Please provide any additional information that could help us in resolving the issue. This may include logs, screenshots, specific scenarios in which the bug occurs, or any other relevant details.
+
+  - type: textarea
+    id: expected-results
+    attributes:
+      label: Expected Results
+      description: Please describe the expected results or behavior.
+
+  - type: textarea
+    id: actual-results
+    attributes:
+      label: Actual Results
+      description: Please describe the actual results or behavior observed.
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: |
+        If applicable, please provide information about your environment (e.g., operating system, browser version, device).
+
+  - type: checkboxes
+    id: bug-impact
+    attributes:
+      label: Bug Impact
+      description: |
+        Please select the impact of the bug:
+        - [ ] Critical - Blocks critical functionality or causes data loss
+        - [ ] Major - Major functionality is affected but there is a workaround
+        - [ ] Minor - Minor functionality is affected and there is a workaround
+        - [ ] Cosmetic - Cosmetic issue, no functionality impact
+
+  - type: textarea
+    id: workaround
+    attributes:
+      label: Workaround
+      description: |
+        If you have identified any workarounds, please describe them here.
+
+  - type: textarea
+    id: related-issues
+    attributes:
+      label: Related Issues
+      description: |
+        If there are any related issues or previous bug reports, please mention them here.
+
