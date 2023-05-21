@@ -1,0 +1,26 @@
+# These are the funding options for your project.
+# Customize the URLs and platform information according to your needs.
+
+# GitHub Sponsors
+github: [username]
+
+# Open Collective
+open_collective: [username]
+
+# Ko-fi
+ko_fi: [username]
+
+# Tidelift
+tidelift: [package-name]
+
+# Community Bridge
+community_bridge: [project-id]
+
+# Custom funding options
+custom:
+  - url: https://example.com/donate
+    platform: Custom Donation Platform
+
+  - url: https://example.com/sponsor
+    platform: Custom Sponsorship Platform
+
