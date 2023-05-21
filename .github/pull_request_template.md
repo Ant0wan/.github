@@ -33,12 +33,24 @@ If the changes in this pull request require deployment or affect the production 
 ## ⚙️ Technical Details
 <!-- Include any technical details or considerations related to the changes in this pull request. This can include architectural decisions, performance improvements, algorithms used, or any other relevant technical information. -->
 
-## ℹ Additional Information
-<!-- Include any additional information or context related to the changes in this pull request. This can include explanations of design decisions, performance considerations, breaking changes, or any other relevant details. -->
-
 ## 📸 Screenshots (if applicable)
 <!-- Include any relevant screenshots or images that help visualize the changes made in this pull request. -->
 
 ## 📚 Related Documentation
 <!-- Add links or references to any relevant documentation, specifications, or design documents related to the changes made in this pull request. -->
+
+## 💼 Impact Analysis
+<!-- Describe the impact of the changes on other parts of the codebase, existing functionality, or external dependencies. Discuss any potential risks, edge cases, or considerations that should be taken into account. -->
+
+## 🔄 Rollback Plan
+<!-- Provide a plan for rolling back the changes in case of any issues or failures in production. Include steps, procedures, or scripts necessary to revert the changes safely. -->
+
+## 🧪 Testing Plan
+<!-- Outline the testing approach for the changes made in this pull request. Include information about unit tests, integration tests, end-to-end tests, or any other relevant testing methodologies. -->
+
+## 📈 Performance Considerations
+<!-- Discuss any performance considerations related to the changes made. Include details about optimizations, benchmarks, or performance tests conducted to ensure the changes meet performance requirements. -->
+
+## 📝 Release Notes
+<!-- Suggest release notes that can be used to communicate the changes to users, stakeholders, or the wider community. Include any important information, updates, or notable changes that should be highlighted in the release notes. -->
 
