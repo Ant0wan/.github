@@ -44,17 +44,16 @@ The repository follows a standardized structure for the `.github` directory:
 ├── FUNDING.yml
 ├── GOVERNANCE.md
 ├── ISSUE_TEMPLATE/
-│   ├── bug_report.yml
-│   └── feature_request.yml
+│   ├── [...].yml
+│   └──  ...
 ├── LICENSE
 ├── PULL_REQUEST_TEMPLATE.md
 ├── README.md
 ├── SECURITY.md
 ├── SUPPORT.md
 └── workflows/
-    ├── pull-request.yml
-    ├── rust.yml
-    └── shell.yml
+    ├── [...].yml
+    └──  ...
 ```
 
 
@@ -69,9 +68,6 @@ The repository follows a standardized structure for the `.github` directory:
 - `SECURITY.md`: This file provides guidelines and information related to the security of the project.
 - `SUPPORT.md`: This file provides information on how users can seek support or get help with the project.
 - `workflows`: This directory contains GitHub Actions workflow files that define automated processes for the repository.
-  - `pull-request.yml`: This workflow is triggered when a pull request is opened or synchronized.
-  - `rust.yml`: This workflow is specific to Rust programming language-related processes.
-  - `shell.yml`: This workflow is specific to shell or command-line related processes.
 
 ## Usage
 
