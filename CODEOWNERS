@@ -1,0 +1,16 @@
+# This is the CODEOWNERS file
+
+# Syntax:
+# <glob pattern> <username or team>
+
+# Directories
+/docs/ @johnsmith
+/src/ @dev-team
+
+# Specific Files
+README.md @janedoe
+/LICENSE @legal-team
+
+# File extensions
+*.txt @janedoe
+*.js @dev-team
